@@ -1,0 +1,5 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Latest Death,x:1,z:5,y:61,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:the_end#
+name:nether portal end,x:64,z:-1576,y:44,enabled:true,red:0.061109602,green:0.50675094,blue:0.96219367,suffix:,world:,dimensions:the_nether#
