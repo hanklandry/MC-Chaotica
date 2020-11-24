@@ -13,7 +13,7 @@
   "widgets": false,
   "langKey": "packmenu.akliz",
   "action": "OPEN_URL",
-  "data": "https://www.curseforge.com/minecraft/modpacks/minecraft-chaotica",
+  "data": "https://www.curseforge.com/minecraft/mc-mods/packmenu",
   "anchor": "TOP_RIGHT",
   "textXOffset": 5
 }
