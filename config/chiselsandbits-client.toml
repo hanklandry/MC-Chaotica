@@ -23,6 +23,15 @@
 		#settings.selected-tool-mode-icons.renderer.comment
 		renderer = "chiselsandbits:group"
 
+	[settings.clipboard]
+		#settings.clipboard.size.comment
+		#Range: 0 ~ 64
+		size = 64
+		#mod.chiselsandbits.config.settings.clipboard.addbrokenblocks.comment
+		addBrokenBlocks = true
+		#mod.chiselsandbits.config.settings.clipboard.addpickedblocks.comment
+		addPickedBlocks = true
+
 [performance]
 
 	[performance.caches]
