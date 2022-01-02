@@ -32,6 +32,10 @@
 		#mod.chiselsandbits.config.settings.clipboard.addpickedblocks.comment
 		addPickedBlocks = true
 
+	[settings.patterns]
+		#settings.patterns.export-path.comment
+		export-path = "./chiselsandbits/patterns"
+
 [performance]
 
 	[performance.caches]
